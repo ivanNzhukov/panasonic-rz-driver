@@ -11,7 +11,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <spark-core>2.6.0</spark-core>
+        <spark-core>2.7.2</spark-core>
         <maven-version>3.3</maven-version>
         <apache-commons-codec>1.13</apache-commons-codec>
     </properties>
